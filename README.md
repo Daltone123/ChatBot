@@ -1,4 +1,4 @@
-## What you will create
+## About the app
 I am building a chatbot that can carry out conversations with users using natural language processing.
 
 To start, we will be using Microsoft DialoGPT, a pre-trained language model that can generate human-like responses to given prompts. We will be integrating DialoGPT with Flask, a popular Python web framework, to create a web application that can communicate with users via a chat interface.
